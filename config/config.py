@@ -3,4 +3,4 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-TESSERACT = os.getenv('TESSERACT')
+TESSERACT = os.getenv("TESSERACT")
